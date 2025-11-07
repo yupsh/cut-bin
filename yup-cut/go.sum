@@ -1,0 +1,16 @@
+github.com/cpuguy83/go-md2man/v2 v2.0.7 h1:zbFlGlXEAKlwXpmvle3d8Oe3YnkKIK4xSRTd3sHPnBo=
+github.com/cpuguy83/go-md2man/v2 v2.0.7/go.mod h1:oOW0eioCTA6cOiMLiUPZOpcVxMig6NIQQ7OS05n1F4g=
+github.com/gloo-foo/framework v0.0.1 h1:RCI+rT/SSY51R3qGLz8u6zjt113dny7Yf2ZM6+MhqHE=
+github.com/gloo-foo/framework v0.0.1/go.mod h1:p9P7iz84iZ4+c7BoOrVcKl7yuWVZ79eaCmWkM44FJ4c=
+github.com/gloo-foo/framework v0.0.3 h1:1ZmonNQ0ftuIrDEQ2G/mfY4qcODLyECI71UxtEgo1Fw=
+github.com/gloo-foo/framework v0.0.3/go.mod h1:p9P7iz84iZ4+c7BoOrVcKl7yuWVZ79eaCmWkM44FJ4c=
+github.com/russross/blackfriday/v2 v2.1.0 h1:JIOH55/0cWyOuilr9/qlrm0BSXldqnqwMsf35Ld67mk=
+github.com/russross/blackfriday/v2 v2.1.0/go.mod h1:+Rmxgy9KzJVeS9/2gXHxylqXiyQDYRxCVz55jmeOWTM=
+github.com/urfave/cli/v2 v2.27.7 h1:bH59vdhbjLv3LAvIu6gd0usJHgoTTPhCFib8qqOwXYU=
+github.com/urfave/cli/v2 v2.27.7/go.mod h1:CyNAG/xg+iAOg0N4MPGZqVmv2rCoP267496AOXUZjA4=
+github.com/xrash/smetrics v0.0.0-20250705151800-55b8f293f342 h1:FnBeRrxr7OU4VvAzt5X7s6266i6cSVkkFPS0TuXWbIg=
+github.com/xrash/smetrics v0.0.0-20250705151800-55b8f293f342/go.mod h1:Ohn+xnUBiLI6FVj/9LpzZWtj1/D6lUovWYBkxHVV3aM=
+github.com/yupsh/cut v0.0.0-20251107224015-37786040da0e h1:pEbAdCmpODeVYmSxpQkIWwfS7aYf+dkn35pCpvyixxM=
+github.com/yupsh/cut v0.0.0-20251107224015-37786040da0e/go.mod h1:1feZ8aQ7jYr4osA7jQV6n8vzpfGbWwB7cRHZSDGTT9A=
+github.com/yupsh/cut v0.0.3 h1:MOVmyQXYVMt98mjm741zrLdf47e2+xESqbdADirI8C0=
+github.com/yupsh/cut v0.0.3/go.mod h1:1feZ8aQ7jYr4osA7jQV6n8vzpfGbWwB7cRHZSDGTT9A=

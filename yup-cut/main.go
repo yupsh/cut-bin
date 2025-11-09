@@ -8,7 +8,7 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	yup "github.com/gloo-foo/framework"
+	gloo "github.com/gloo-foo/framework"
 	. "github.com/yupsh/cut"
 )
 
@@ -69,7 +69,7 @@ func action(c *cli.Context) error {
 
 	// Add file arguments (or none for stdin)
 	for i := 0; i < c.NArg(); i++ {
-		params = append(params, yup.File(c.Args().Get(i)))
+		params = append(params, gloo.File(c.Args().Get(i)))
 	}
 
 	// Add flags based on CLI options
@@ -103,7 +103,7 @@ func action(c *cli.Context) error {
 
 	// Create and execute the cut command
 	cmd := Cut(params...)
-	return yup.Run(cmd)
+	return gloo.Run(cmd)
 }
 
 // parseList parses a comma-separated list of integers and ranges (e.g., "1,3,5-7")
